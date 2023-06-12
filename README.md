@@ -23,7 +23,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Governança e Consenso](https://www.asppibra.com.br/)
 - [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md)
 - [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)
-- [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#planos-e-parcerias)
+- [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias)
 - [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#distribui%C3%A7%C3%A3o-dos-tokens)
 - [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#aloca%C3%A7%C3%A3o-de-fundos)
 - [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira)
