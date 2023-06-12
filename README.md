@@ -28,7 +28,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#aloca%C3%A7%C3%A3o-de-fundos)
 - [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
 - [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#fatores-de-riscos-e-desafios)
-- [Termos e Condições de Venda de Tokens](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
+- [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/Termos%20e%20Condi%C3%A7%C3%B5es%20Gerais.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
 
 ### O que deve ser incluído na seção Tokenomics? 
 
