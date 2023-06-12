@@ -21,7 +21,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Tokenomics](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKENOMICS.md#tokenomics)
 - [Tecnologia e Arquitetura](https://www.asppibra.com.br/)
 - [Governança e Consenso](https://www.asppibra.com.br/)
-- [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md)
+- [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)
 - [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)
 - [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias)
 - [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKENOMICS.md#distribui%C3%A7%C3%A3o-dos-tokens)
