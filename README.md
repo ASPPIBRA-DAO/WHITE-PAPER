@@ -26,7 +26,7 @@ Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura
 - [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#planos-e-parcerias)
 - [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#distribui%C3%A7%C3%A3o-dos-tokens)
 - [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#aloca%C3%A7%C3%A3o-de-fundos)
-- [Conformidade Legal e Regulamentar](https://www.asppibra.com.br/)
+- [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira)
 - [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/TOKEN/blob/main/README.md#fatores-de-riscos-e-desafios)
 - [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/Termos%20e%20Condi%C3%A7%C3%B5es%20Gerais.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
 
