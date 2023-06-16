@@ -2,16 +2,17 @@
 
 ![launchpad Mundo Digital](https://github.com/ASPPIBRA-DAO/WHITE-PAPER/assets/80177249/042a21dd-030c-409f-994c-77496af9d5c2)
 
+Antes de nos aprofundarmos no projeto Digital World, seus objetivos e estrutura, vamos fornecer uma explicação concisa sobre o que um white paper envolve, especialmente para aqueles que encontram esse tipo de documento pela primeira vez.
 
 ### O que é um whitepaper?
 
-- Um whitepaper é um documento abrangente que descreve os detalhes e os principais componentes de um projeto, produto ou conceito. É normalmente usado na indústria de tecnologia, incluindo o espaço de criptomoeda e blockchain, para apresentar uma explicação detalhada de uma ideia, solução ou inovação específica.
+Um whitepaper é um documento extenso que fornece uma visão geral detalhada de um projeto, produto ou conceito. É comumente usado na indústria de tecnologia, particularmente nos domínios de criptomoeda e blockchain, para oferecer uma explicação abrangente de uma ideia, solução ou inovação específica.
 
-Certamente! Aqui está uma seção que aborda questões comuns sobre a estrutura de um whitepaper para o Projeto Crypto Mundo Digital:
+Agora, vamos esclarecer algumas dúvidas comuns sobre a estrutura de um whitepaper para o Projeto Mundo Digital:
 
 ### Qual é a finalidade do whitepaper? 
 
-- O whitepaper serve como um documento abrangente que descreve os objetivos, soluções, tokennomics, tecnologia, roteiro e equipe do projeto. Ele fornece aos potenciais investidores e membros da comunidade uma compreensão detalhada da visão, funcionalidade e valor potencial do projeto.
+- O whitepaper serve como um documento abrangente que descreve os objetivos, soluções, tokennomics, tecnologia, roteiro e equipe do projeto. Ele fornece aos potenciais associados e usuarios da comunidade uma compreensão detalhada da visão, funcionalidade e valor potencial do projeto.
 
 ### Quais seções devem ser incluídas no whitepaper?
 
