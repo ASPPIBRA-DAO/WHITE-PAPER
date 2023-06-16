@@ -2,7 +2,7 @@
 
 ![launchpad Mundo Digital](https://github.com/ASPPIBRA-DAO/WHITE-PAPER/assets/80177249/042a21dd-030c-409f-994c-77496af9d5c2)
 
-Antes de nos aprofundarmos no projeto Digital World, seus objetivos e estrutura, vamos fornecer uma explicação concisa sobre o que um white paper envolve, especialmente para aqueles que encontram esse tipo de documento pela primeira vez.
+Antes de entrar nos detalhes explicativos do projeto Mundo Digital, seus objetivos e sua estrutura, é importante fazer uma breve explicação do que é um Whitepaper, principalmente para quem se depara com esse tipo de documento pela primeira vez.
 
 #### O que é um whitepaper?
 
