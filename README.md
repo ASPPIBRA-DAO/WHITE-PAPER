@@ -1,4 +1,4 @@
-# [WHITE PAPER](https://www.asppibra.com.br/)
+# [MUNDO DIGITAL](https://www.asppibra.com.br/)
 
 ![launchpad Mundo Digital](https://github.com/ASPPIBRA-DAO/WHITE-PAPER/assets/80177249/042a21dd-030c-409f-994c-77496af9d5c2)
 
