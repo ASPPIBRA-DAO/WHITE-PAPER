@@ -1,5 +1,8 @@
 # [WHITE PAPER](https://www.asppibra.com.br/)
 
+![launchpad Mundo Digital](https://github.com/ASPPIBRA-DAO/WHITE-PAPER/assets/80177249/042a21dd-030c-409f-994c-77496af9d5c2)
+
+
 ### O que é um whitepaper?
 
 - Um whitepaper é um documento abrangente que descreve os detalhes e os principais componentes de um projeto, produto ou conceito. É normalmente usado na indústria de tecnologia, incluindo o espaço de criptomoeda e blockchain, para apresentar uma explicação detalhada de uma ideia, solução ou inovação específica.
