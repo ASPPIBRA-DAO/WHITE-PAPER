@@ -54,7 +54,7 @@ A seção Equipe e Parcerias deve apresentar os principais membros da equipe, se
 
 A seção Fatores de Risco e Desafios deve abordar riscos, desafios ou limitações potenciais associados ao Projeto Mundo Digital do Token Criptográfico. Deve fornecer uma avaliação honesta e transparente das vulnerabilidades ou obstáculos, juntamente com potenciais mitigações ou planos de contingência. É importante reconhecer e abordar as preocupações para promover a confiança e a conscientização sobre os riscos.
 
-#### O que deve ser abordado na seção Termos e condições de venda de token? 
+#### O que deve ser abordado na seção Termos e condições de distribuição de token? 
 
 A seção Termos e Condições de Venda de Token deve incluir informações relevantes sobre o processo de venda de token, como datas de venda, contribuições mínimas e máximas e quaisquer critérios de elegibilidade. Ele também deve descrever os termos e condições relacionados a restrições de transferência de token, períodos de bloqueio, cronogramas de aquisição e quaisquer isenções legais.
 
