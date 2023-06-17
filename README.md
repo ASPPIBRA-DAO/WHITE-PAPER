@@ -24,7 +24,7 @@ O whitepaper serve como um documento abrangente que descreve os objetivos, solu�
 - [Soluçôes](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)
 - [Tokenomics](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKENOMICS.md#tokenomics)
 - [Tecnologia e Arquitetura](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TECNOLOGIA%20E%20ARQUITETURA.md)
-- [Governança e Consenso](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md)
+- [Governança e Consenso](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md#governan%C3%A7a-e-consenso)
 - [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)
 - [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)
 - [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias)
