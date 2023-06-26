@@ -20,6 +20,7 @@ O whitepaper serve como um documento abrangente que descreve os objetivos, solu�
 **O whitepaper deve incluir seções como:**
 
 - [Apresentação](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/APRESENTA%C3%87%C3%83O.md)
+- [Quem Somos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#quem-somos)
 - [Problemas](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PROBLEMAS.md#problemas)
 - [Soluçôes](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)
 - [Tokenomics](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#tokenomics)
